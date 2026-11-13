@@ -1,0 +1,5 @@
+{"name": "기본 프레임", "width": 1000, "height": 1500, "slots": [
+  {"id": "s1", "shot": 0, "cx": 265, "cy": 360, "w": 430, "h": 620, "rot": 0, "ratio": "free"},
+  {"id": "s2", "shot": 1, "cx": 735, "cy": 360, "w": 430, "h": 620, "rot": 0, "ratio": "free"},
+  {"id": "s3", "shot": 2, "cx": 265, "cy": 1020, "w": 430, "h": 620, "rot": 0, "ratio": "free"},
+  {"id": "s4", "shot": 3, "cx": 735, "cy": 1020, "w": 430, "h": 620, "rot": 0, "ratio": "free"}]}

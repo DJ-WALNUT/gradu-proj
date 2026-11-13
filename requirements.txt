@@ -1,0 +1,9 @@
+pygame-ce==2.5.8
+Pillow>=11
+numpy<2
+mediapipe==0.10.21
+qrcode[pil]==8.2
+requests>=2.32
+python-dotenv>=1.0
+pyserial>=3.5
+pytest>=8
