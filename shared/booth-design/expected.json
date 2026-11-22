@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "cases": [
+    {
+      "name": "기본값",
+      "event": {
+        "primary": "#1b2550",
+        "accent": "#e66e82",
+        "bg_top": "#fff8f9",
+        "bg_bottom": "#eaf4fb"
+      },
+      "roles": {
+        "background_top": "#fff8f9",
+        "background_bottom": "#eaf4fb",
+        "title": "#1b2550",
+        "line": "#1b2550",
+        "hint": "#5b607f",
+        "action": "#e66e82",
+        "on_action": "#141821",
+        "action_edge": "#1b2550",
+        "film": "#1b2550",
+        "perforation": "#1b2550",
+        "credit": "#1b2550"
+      }
+    },
+    {
+      "name": "연한 주요색",
+      "event": {
+        "primary": "#d8dce8",
+        "accent": "#e66e82",
+        "bg_top": "#fff8f9",
+        "bg_bottom": "#eaf4fb"
+      },
+      "roles": {
+        "background_top": "#fff8f9",
+        "background_bottom": "#eaf4fb",
+        "title": "#141821",
+        "line": "#141821",
+        "hint": "#56575d",
+        "action": "#e66e82",
+        "on_action": "#141821",
+        "action_edge": "#141821",
+        "film": "#d8dce8",
+        "perforation": "#141821",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "배경과 같은 강조색",
+      "event": {
+        "primary": "#1b2550",
+        "accent": "#fff8f9",
+        "bg_top": "#fff8f9",
+        "bg_bottom": "#eaf4fb"
+      },
+      "roles": {
+        "background_top": "#fff8f9",
+        "background_bottom": "#eaf4fb",
+        "title": "#1b2550",
+        "line": "#1b2550",
+        "hint": "#5b607f",
+        "action": "#fff8f9",
+        "on_action": "#141821",
+        "action_edge": "#1b2550",
+        "film": "#1b2550",
+        "perforation": "#1b2550",
+        "credit": "#1b2550"
+      }
+    },
+    {
+      "name": "어두운 배경 + 어두운 주요색",
+      "event": {
+        "primary": "#2a3050",
+        "accent": "#e66e82",
+        "bg_top": "#141821",
+        "bg_bottom": "#20263a"
+      },
+      "roles": {
+        "background_top": "#141821",
+        "background_bottom": "#20263a",
+        "title": "#ffffff",
+        "line": "#ffffff",
+        "hint": "#bdbec1",
+        "action": "#e66e82",
+        "on_action": "#141821",
+        "action_edge": null,
+        "film": "#2a3050",
+        "perforation": "#2a3050",
+        "credit": "#ffffff"
+      }
+    },
+    {
+      "name": "채도 높은 노랑 강조",
+      "event": {
+        "primary": "#1b2550",
+        "accent": "#ffd400",
+        "bg_top": "#fff8f9",
+        "bg_bottom": "#eaf4fb"
+      },
+      "roles": {
+        "background_top": "#fff8f9",
+        "background_bottom": "#eaf4fb",
+        "title": "#1b2550",
+        "line": "#1b2550",
+        "hint": "#5b607f",
+        "action": "#ffd400",
+        "on_action": "#141821",
+        "action_edge": "#1b2550",
+        "film": "#1b2550",
+        "perforation": "#1b2550",
+        "credit": "#1b2550"
+      }
+    },
+    {
+      "name": "위아래 배경 명도 차이 큼",
+      "event": {
+        "primary": "#595959",
+        "accent": "#e66e82",
+        "bg_top": "#ffffff",
+        "bg_bottom": "#5a5a5a"
+      },
+      "roles": {
+        "background_top": "#ffffff",
+        "background_bottom": "#5a5a5a",
+        "title": "#141821",
+        "line": "#141821",
+        "hint": "#141821",
+        "action": "#e66e82",
+        "on_action": "#141821",
+        "action_edge": "#141821",
+        "film": "#595959",
+        "perforation": "#595959",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "중간 명도 강조",
+      "event": {
+        "primary": "#1b2550",
+        "accent": "#7f7f7f",
+        "bg_top": "#fff8f9",
+        "bg_bottom": "#eaf4fb"
+      },
+      "roles": {
+        "background_top": "#fff8f9",
+        "background_bottom": "#eaf4fb",
+        "title": "#1b2550",
+        "line": "#1b2550",
+        "hint": "#5b607f",
+        "action": "#7f7f7f",
+        "on_action": "#141821",
+        "action_edge": null,
+        "film": "#1b2550",
+        "perforation": "#1b2550",
+        "credit": "#1b2550"
+      }
+    },
+    {
+      "name": "무작위 7-0",
+      "event": {
+        "primary": "#a54dca",
+        "accent": "#182530",
+        "bg_top": "#bb1d6d",
+        "bg_bottom": "#132cde"
+      },
+      "roles": {
+        "background_top": "#bb1d6d",
+        "background_bottom": "#132cde",
+        "title": "#ffffff",
+        "line": "#ffffff",
+        "hint": "#ffffff",
+        "action": "#182530",
+        "on_action": "#ffffff",
+        "action_edge": "#ffffff",
+        "film": "#a54dca",
+        "perforation": "#a54dca",
+        "credit": "#ffffff"
+      }
+    },
+    {
+      "name": "무작위 7-1",
+      "event": {
+        "primary": "#d6237b",
+        "accent": "#2ed91e",
+        "bg_top": "#3f721f",
+        "bg_bottom": "#cb1971"
+      },
+      "roles": {
+        "background_top": "#3f721f",
+        "background_bottom": "#cb1971",
+        "title": "#ffffff",
+        "line": "#ffffff",
+        "hint": "#ffffff",
+        "action": "#2ed91e",
+        "on_action": "#141821",
+        "action_edge": "#ffffff",
+        "film": "#d6237b",
+        "perforation": "#d6237b",
+        "credit": "#ffffff"
+      }
+    },
+    {
+      "name": "무작위 7-2",
+      "event": {
+        "primary": "#174494",
+        "accent": "#d6493c",
+        "bg_top": "#9d5c34",
+        "bg_bottom": "#60be31"
+      },
+      "roles": {
+        "background_top": "#9d5c34",
+        "background_bottom": "#60be31",
+        "title": "#141821",
+        "line": "#141821",
+        "hint": "#141821",
+        "action": "#d6493c",
+        "on_action": "#ffffff",
+        "action_edge": "#141821",
+        "film": "#174494",
+        "perforation": "#174494",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "무작위 7-3",
+      "event": {
+        "primary": "#201e69",
+        "accent": "#fedaa0",
+        "bg_top": "#eee8b9",
+        "bg_bottom": "#997f5c"
+      },
+      "roles": {
+        "background_top": "#eee8b9",
+        "background_bottom": "#997f5c",
+        "title": "#141821",
+        "line": "#201e69",
+        "hint": "#141821",
+        "action": "#fedaa0",
+        "on_action": "#141821",
+        "action_edge": "#201e69",
+        "film": "#201e69",
+        "perforation": "#201e69",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "무작위 7-4",
+      "event": {
+        "primary": "#7c2999",
+        "accent": "#fdafe5",
+        "bg_top": "#93253c",
+        "bg_bottom": "#d654af"
+      },
+      "roles": {
+        "background_top": "#93253c",
+        "background_bottom": "#d654af",
+        "title": "#ffffff",
+        "line": "#ffffff",
+        "hint": "#ffffff",
+        "action": "#fdafe5",
+        "on_action": "#141821",
+        "action_edge": "#ffffff",
+        "film": "#7c2999",
+        "perforation": "#7c2999",
+        "credit": "#ffffff"
+      }
+    },
+    {
+      "name": "무작위 7-5",
+      "event": {
+        "primary": "#4dfad7",
+        "accent": "#1427a0",
+        "bg_top": "#aeb3fe",
+        "bg_bottom": "#e9232f"
+      },
+      "roles": {
+        "background_top": "#aeb3fe",
+        "background_bottom": "#e9232f",
+        "title": "#141821",
+        "line": "#141821",
+        "hint": "#141821",
+        "action": "#1427a0",
+        "on_action": "#ffffff",
+        "action_edge": "#141821",
+        "film": "#4dfad7",
+        "perforation": "#141821",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "무작위 7-6",
+      "event": {
+        "primary": "#8af221",
+        "accent": "#1f9ee4",
+        "bg_top": "#91c5b1",
+        "bg_bottom": "#0becb5"
+      },
+      "roles": {
+        "background_top": "#91c5b1",
+        "background_bottom": "#0becb5",
+        "title": "#141821",
+        "line": "#141821",
+        "hint": "#374849",
+        "action": "#1f9ee4",
+        "on_action": "#141821",
+        "action_edge": "#141821",
+        "film": "#8af221",
+        "perforation": "#141821",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "무작위 7-7",
+      "event": {
+        "primary": "#563bfc",
+        "accent": "#1e6f93",
+        "bg_top": "#427ecb",
+        "bg_bottom": "#c8fe29"
+      },
+      "roles": {
+        "background_top": "#427ecb",
+        "background_bottom": "#c8fe29",
+        "title": "#141821",
+        "line": "#141821",
+        "hint": "#141821",
+        "action": "#1e6f93",
+        "on_action": "#ffffff",
+        "action_edge": "#141821",
+        "film": "#563bfc",
+        "perforation": "#563bfc",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "무작위 7-8",
+      "event": {
+        "primary": "#55e5cd",
+        "accent": "#8e46dc",
+        "bg_top": "#8ed4b7",
+        "bg_bottom": "#c2764d"
+      },
+      "roles": {
+        "background_top": "#8ed4b7",
+        "background_bottom": "#c2764d",
+        "title": "#141821",
+        "line": "#141821",
+        "hint": "#141821",
+        "action": "#8e46dc",
+        "on_action": "#ffffff",
+        "action_edge": "#141821",
+        "film": "#55e5cd",
+        "perforation": "#141821",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "무작위 7-9",
+      "event": {
+        "primary": "#2a5a4d",
+        "accent": "#767706",
+        "bg_top": "#f85d86",
+        "bg_bottom": "#90024a"
+      },
+      "roles": {
+        "background_top": "#f85d86",
+        "background_bottom": "#90024a",
+        "title": "#ffffff",
+        "line": "#ffffff",
+        "hint": "#ffffff",
+        "action": "#767706",
+        "on_action": "#ffffff",
+        "action_edge": "#ffffff",
+        "film": "#2a5a4d",
+        "perforation": "#2a5a4d",
+        "credit": "#ffffff"
+      }
+    },
+    {
+      "name": "무작위 7-10",
+      "event": {
+        "primary": "#d6bda3",
+        "accent": "#401be9",
+        "bg_top": "#c8cbcc",
+        "bg_bottom": "#c935f6"
+      },
+      "roles": {
+        "background_top": "#c8cbcc",
+        "background_bottom": "#c935f6",
+        "title": "#141821",
+        "line": "#141821",
+        "hint": "#141821",
+        "action": "#401be9",
+        "on_action": "#ffffff",
+        "action_edge": "#141821",
+        "film": "#d6bda3",
+        "perforation": "#141821",
+        "credit": "#141821"
+      }
+    },
+    {
+      "name": "무작위 7-11",
+      "event": {
+        "primary": "#cd1f61",
+        "accent": "#226ae1",
+        "bg_top": "#5338ae",
+        "bg_bottom": "#1a3400"
+      },
+      "roles": {
+        "background_top": "#5338ae",
+        "background_bottom": "#1a3400",
+        "title": "#ffffff",
+        "line": "#ffffff",
+        "hint": "#cfc7e8",
+        "action": "#226ae1",
+        "on_action": "#ffffff",
+        "action_edge": "#ffffff",
+        "film": "#cd1f61",
+        "perforation": "#cd1f61",
+        "credit": "#ffffff"
+      }
+    }
+  ]
+}

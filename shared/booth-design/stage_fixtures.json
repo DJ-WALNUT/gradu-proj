@@ -1,0 +1,6 @@
+[{"win":[1920,1080],"orientation":"landscape","box":[1920,1080]},
+ {"win":[1920,1200],"orientation":"landscape","box":[1920,1200]},
+ {"win":[1600,1200],"orientation":"landscape","box":[1920,1440]},
+ {"win":[1200,1600],"orientation":"portrait","box":[1440,1920]},
+ {"win":[1080,1920],"orientation":"portrait","box":[1080,1920]},
+ {"win":[1080,2340],"orientation":"portrait","box":[1080,2340]}]

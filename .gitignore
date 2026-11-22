@@ -1,0 +1,12 @@
+# 이 기기에만 해당하는 값 · 실행 중 생기는 데이터 (사진 · 기록)
+.env
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+booth/data/
+booth/data-dev/
+booth/eval_data/
+booth/models/*.part
+booth/*.zip
+field*.zip
+booth/tools/touch_probe.log
